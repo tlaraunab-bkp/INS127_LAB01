@@ -31,3 +31,10 @@
 # Debug files
 *.dSYM/
 *.su
+
+#CodeLite and Make files
+*.project
+*.mk
+Debug/
+*.workspace
+P*.txt
